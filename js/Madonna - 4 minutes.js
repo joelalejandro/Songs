@@ -139,7 +139,6 @@ justin.vocalize("oh").saluteInformally(); // Oh hey
 madonna.announces(new RoadToHell({ inherits: new ListOf(GoodIntention) }));
 madonna.acceptInformally();     // Yeah
 
-[Justin:]
 if (justin.isDead({ when: "tonight" })) {
   if (justin.lastAction == justin.lastWish) {
     justin.announce("I did what I wanted to do");   // But if I die tonight at least I can say I did what I wanted to do
