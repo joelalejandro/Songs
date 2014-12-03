@@ -1,5 +1,6 @@
 // I forgive (but I won't forget your name)
 // Lacuna Coil
+// Listen to the original song at https://www.youtube.com/watch?v=lyl4EinZsMY
 
 if (you.knowThat(I.haveBeenHurt)) {    // You know I've been hurt before
 }                                      // But you didn't really care
